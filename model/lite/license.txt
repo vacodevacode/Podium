@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marble 3 - Litecoin
+* source:	https://sketchfab.com/3d-models/marble-3-litecoin-28b9a25d3e8d4df585ac880b45fcab75
+* author:	pARkesy84 (https://sketchfab.com/pARkesy84)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marble 3 - Litecoin" (https://sketchfab.com/3d-models/marble-3-litecoin-28b9a25d3e8d4df585ac880b45fcab75) by pARkesy84 (https://sketchfab.com/pARkesy84) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
